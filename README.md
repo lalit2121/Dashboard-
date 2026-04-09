@@ -1,6 +1,6 @@
 # ✈️ Airline KPI Dashboard (Power BI)
 
-![Dashboard Preview](✈️ Airline KPI Dashboard (Power BI)/Screenshot (8).png)
+![Dashboard Preview](Screenshot%20(8).png)
 
 ---
 
