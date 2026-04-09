@@ -35,19 +35,6 @@ The dashboard transforms raw data into meaningful insights to monitor performanc
 - DAX (Data Analysis Expressions)  
 - Excel / CSV (Raw Data Source)  
 
----
-
-## 📂 Project Structure
-airline-kpi-dashboard/
-│
-├── data/ # Raw datasets
-├── dashboard/ # Power BI file (.pbix)
-├── images/ # Dashboard screenshots
-└── README.md # Project documentation
-
-
----
-
 ## 🔍 Key Insights
 - Identification of high-delay routes  
 - Trends in on-time performance  
